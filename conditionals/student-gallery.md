@@ -1,0 +1,3 @@
+# Student Gallery
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>/ \ pattern.2 D-2</td><td>Created by Vanshika</td><td><a href="https://editor.p5js.org/vanshikaynr/sketches/ehFzire1H">p5js LINK</a></td><td><a href="../.gitbook/assets/Screen Shot 2023-09-23 at 8.06.42 PM.png">Screen Shot 2023-09-23 at 8.06.42 PM.png</a></td></tr><tr><td>Catnip viscose</td><td>Created by Maniesh</td><td><a href="https://editor.p5js.org/Maniesh/sketches/-h9Xn9yjn">p5js LINK</a></td><td><a href="../.gitbook/assets/Screen Shot 2023-10-10 at 9.30.04 AM.png">Screen Shot 2023-10-10 at 9.30.04 AM.png</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>

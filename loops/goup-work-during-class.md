@@ -49,4 +49,12 @@ function draw() {
 
 ### Link to Project in p5js
 
-[**https://editor.p5js.org/Garcila/sketches/7eCphtsTA**](https://editor.p5js.org/Garcila/sketches/7eCphtsTA)
+{% embed url="https://editor.p5js.org/Garcila/sketches/7eCphtsTA" %}
+
+***
+
+### Completed project
+
+{% embed url="https://editor.p5js.org/Garcila/sketches/1mhDZtDdw" %}
+Completed Vera Molnar's
+{% endembed %}
